@@ -7,4 +7,14 @@
         <RootNamespace>isaac_cv</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Update="wwwroot\images\Profielfoto.jpeg">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
 </Project>
