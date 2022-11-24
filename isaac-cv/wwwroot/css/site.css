@@ -27,10 +27,18 @@ td{
 th{
     font-size : 20px;
 }
-td{
-    width : 50%;
+
+.foto{
+    width : 310px;
 }
 
 .belangrijk{
     font-weight: bold;
+}
+.cvcolumn {
+    width: 50%;
+}
+.titel{
+    font-size : 30px;
+    font-weight : bold;
 }
