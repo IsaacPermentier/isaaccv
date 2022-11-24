@@ -12,6 +12,9 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Content Update="wwwroot\images\LinkedIn.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
       <Content Update="wwwroot\images\Profielfoto.jpeg">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </Content>
