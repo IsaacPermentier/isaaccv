@@ -24,9 +24,6 @@ body {
 td{
     white-space : pre-line;
 }
-th{
-    font-size : 20px;
-}
 
 .foto{
     width : 310px;
@@ -35,13 +32,28 @@ th{
 .belangrijk{
     font-weight: bold;
 }
-.cvcolumn {
-    width: 50%;
+.cvcolumn{
+    width:50%;
+}
+.cvcolumnlinks {
+    width: 20%;
+}
+.cvcolumnrechts{
+    width:80%;
 }
 .titel{
     font-size : 30px;
     font-weight : bold;
 }
 .btn{
-    background-color:forestgreen;
+    background-color:#36454F;
+    border-color: forestgreen;
 }
+.groen {
+    color: #3CB371;
+}
+li{
+    line-height:5px;
+    list-style-type:square;
+}
+
