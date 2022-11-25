@@ -12,6 +12,18 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Content Update="wwwroot\images\backgrndgreen.jpg">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Update="wwwroot\images\ictback2.jfif">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Update="wwwroot\images\ictback3.jfif">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Update="wwwroot\images\light-grey-abstract-background-hd-cool-7-2.jpg">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
       <Content Update="wwwroot\images\LinkedIn.png">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </Content>
