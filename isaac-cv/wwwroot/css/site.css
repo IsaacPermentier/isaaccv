@@ -19,12 +19,15 @@ html {
 
 body {
   margin-bottom: 60px;
+  line-height: 27px;
 }
 
 td{
     white-space : pre-line;
 }
-
+th, td {
+    border-color: #6699cc;
+}
 .foto{
     width : 310px;
 }
@@ -38,8 +41,8 @@ td{
 .cvcolumnlinks {
     width: 20%;
 }
-.cvcolumnrechts{
-    width:80%;
+.cvcolumnrechts {
+    width: 80%;
 }
 .titel{
     font-size : 30px;
@@ -49,11 +52,16 @@ td{
     background-color:#36454F;
     border-color: forestgreen;
 }
-.groen {
-    color: #3CB371;
+.kleur {
+    color: #6699cc;
 }
 .mijnlijst{
     line-height:12px;
     list-style-type:square;
+}
+
+.achtergrond {
+    background-color: #E5E4E2;
+    color: black;
 }
 
