@@ -67,5 +67,9 @@ th, td {
 .ondertitel {
     color:#6699cc;
 }
+.geenStijl{
+    font-weight:normal;
+    color:black;
+}
 
 
